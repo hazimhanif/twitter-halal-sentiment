@@ -1,0 +1,18 @@
+
+Predicting the model
+284443/284443 [==============================] - 63s 222us/step
+loss: 0.16784437250310832
+acc: 0.9344649015816738
+
+
+
+Confusion Matrix
+[[100937   9201]
+ [  9440 164865]]
+
+Weighted Accuracy: 0.9344649015795783
+Weighted precision: 0.9344923486502129
+Weighted recall: 0.9344649015795783
+Weighted f-measure: 0.9344779357334236
+
+Plot the model training history for training and evaluation sets.
