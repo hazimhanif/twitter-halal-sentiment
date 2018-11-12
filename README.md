@@ -22,6 +22,7 @@ The data are private datasets and can be made available upon further requests.
 ### Libraries and Engines
 This project uses:
  * **Ubuntu 18.04** as the main OS because deep learning frameworks and architectures works better with Linux rather than Windows (performance wise).
+ * **NVIDIA RTX 2080 (Gigabyte)** as the main compute engine for the neural network.
  * **NVIDIA GPU Cloud (NGC) Container** for easy deployment of highly optimized Docker images for deep learning projects.    
  * **Docker v18.09.0** for hosting the NGC images.
  * **NVIDIA Docker v2.0.3** for the customized docker manager for NGC images.  
